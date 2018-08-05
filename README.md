@@ -3,7 +3,7 @@
 > A Vue.js project
 
 # vue-employee-manager
-A fully crud app built with Vue and materialize css.
+A fully crud app built with Vue, firebase and materialize css.
 
 ## Build Setup
 
